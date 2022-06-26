@@ -47,7 +47,7 @@ public class AA08 {
 
     public class AB08 {
         {
-            System.out.println("内部类构造块");
+            System.out.println("内部类构造块AB08");
         }
 
         private String ab08a;
