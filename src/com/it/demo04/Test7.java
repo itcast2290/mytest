@@ -6,5 +6,7 @@ public class Test7 {
 
         System.out.println("005");
         System.out.println("08");
+
+        System.out.println("008");
     }
 }
